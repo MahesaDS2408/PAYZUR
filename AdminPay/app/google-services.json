@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250858398788",
+    "firebase_url": "https://payzur-3bab7.firebaseio.com",
+    "project_id": "payzur-3bab7",
+    "storage_bucket": "payzur-3bab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250858398788:android:530310841db22b7c",
+        "android_client_info": {
+          "package_name": "com.example.adminpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250858398788-hk1pb6ev0avnhebg5l4lfj2g1fdmit3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminpay",
+            "certificate_hash": "f2f7b790d4c504605adbbedd9745496be1581ab4"
+          }
+        },
+        {
+          "client_id": "250858398788-fr51vh9f22bn953h8oi20s2da7nbqv1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qebhlD14FHRInWnG0RfXelgGvKqagKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250858398788-fr51vh9f22bn953h8oi20s2da7nbqv1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
